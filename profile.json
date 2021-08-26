@@ -1,1 +1,1 @@
-{"data":{"user":null},"errors":[{"type":"NOT_FOUND","path":["user"],"locations":[{"line":3,"column":4}],"message":"Could not resolve to a User with the login of 'Yew Ming'."}]}
+{"data":{"user":{"name":"Yew Ming ","bio":"I am a semiconductor machine software developer.\r\nLooking to transition or collaborate on web based app.","isHireable":false,"avatarUrl":"https://avatars.githubusercontent.com/u/48194892?v=4","location":"Singapore","pinnedItems":{"totalCount":0,"edges":[]}}}}
